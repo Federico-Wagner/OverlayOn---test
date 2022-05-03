@@ -1,0 +1,36 @@
+.counter {
+    background-color: #97DEAA;
+    border-radius: 20px;
+    width: 450px;
+    margin: 30px;
+  }
+.msg{
+  font-size: 40px;
+  color: rgb(34, 255, 0);
+  font-weight: 600;
+  background-color: rgb(249, 236, 219);
+
+}
+.start, .pause, .reset, .speed {
+  border: none;
+  height: 35px;
+  width: 80px;
+  margin: 20px 10px;
+  font-size: 17px;
+  font-weight: bold;
+  border-radius: 5px;
+  box-shadow: 5px 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+.start{
+  background-color: rgb(136, 240, 101)
+}
+.pause{
+  background-color: rgba(64, 73, 245, 0.51)
+}
+.reset{
+  background-color: rgb(251, 83, 83)
+}
+.speed{
+  background-color: rgb(232, 224, 73)
+}
